@@ -1,0 +1,15 @@
+// Core
+@import "./core/global.scss";
+@import "./core/typography.scss";
+@import "./core/utility.scss";
+
+// Pages
+@import "./pages/basket.scss";
+@import "./pages/checkout.scss";
+@import "./pages/home.scss";
+@import "./pages/portfolio.scss";
+
+//Components
+@import "./components/footer.scss";
+@import "./components/header.scss";
+@import "./components/form.scss";
